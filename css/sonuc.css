@@ -1,0 +1,12 @@
+.cevap {
+    border:0;border-bottom:2px dashed #c3c3c3;padding:0px;color:black;font-family:Arial;font-weight:bold;font-size:14px;text-align:center;
+}
+.sonuc {
+    border:0;border-bottom:2px ;padding:0px;color:black;font-family:Arial;font-weight:bold;font-size:14px;text-align:center;
+}
+.yanlis {
+    border:0;border-bottom:2px dashed #c3c3c3;padding:0px;color:red;font-family:Arial;font-weight:bold;font-size:14px;text-align:center;
+}
+.dogru {
+    border:0;border-bottom:2px dashed #c3c3c3;padding:0px;color:green;font-family:Arial;font-weight:bold;font-size:14px;text-align:center;
+}
